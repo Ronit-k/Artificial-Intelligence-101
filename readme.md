@@ -1,8 +1,8 @@
 # Artificial Intelligence 101 Projects  
-*Electrical Engineer’s Association, IIT Kanpur*  
+*Electrical Engineers' Association, IIT Kanpur*  
 **Duration:** Dec’24 – Jan’25  
 
-This repository contains Jupyter notebooks demonstrating machine learning and deep learning projects implemented as part of the *Artificial Intelligence 101* course. Each project showcases a different ML architecture and dataset.
+This repository contains Jupyter notebooks demonstrating machine learning and deep learning projects implemented as part of the *Artificial Intelligence 101*. Each project showcases a different ML architecture and dataset.
 
 ---
 
