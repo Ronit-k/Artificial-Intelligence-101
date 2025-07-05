@@ -9,7 +9,7 @@ This repository contains Jupyter notebooks demonstrating machine learning and de
 ## 🔍 Project Highlights
 
 - **[NN_Iris.ipynb](./NN_Iris.ipynb)**  
-  Implemented ML models including a Support Vector Machine and a vanilla Neural Network, achieving **100% accuracy** on the Iris dataset.
+  Implemented a vanilla Neural Network, achieving **100% accuracy** on the Iris dataset.
 
 - **[CNN_MNIST.ipynb](./CNN_MNIST.ipynb)**  
   Designed and trained a **Convolutional Neural Network (CNN)** for handwritten digit classification on the **MNIST** dataset, achieving over **99% test accuracy**.
